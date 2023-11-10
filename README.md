@@ -28,6 +28,6 @@
   Aprender a utlizar las etiquetas estándar de HTML5 y CSS3.
   
   ### Link a Demo
-  En el siguinte link puedes ver mi proyecto terminado: [Google dupe] ()
+  En el siguinte link puedes ver mi proyecto terminado: [Google dupe] (googledupe.vercel.app)
 
   

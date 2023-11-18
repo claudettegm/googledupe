@@ -29,6 +29,6 @@
   
   ### Link a Demo
 
-[En siguiente link puedes ver mi proyecto](googledupe.vercel.app)
+[En siguiente link puedes ver mi proyecto](https://googledupe-claudette-gojons-projects.vercel.app)
 
   
